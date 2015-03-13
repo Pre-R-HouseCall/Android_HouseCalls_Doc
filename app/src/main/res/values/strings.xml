@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HouseCalls</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SlashScreenActivity</string>
+    <string name="login_button">Login</string>
+    <string name="login_hint">Enter username</string>
+    <string name="password_hint">Enter password</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="first_name_hint">Enter First Name</string>
+    <string name="last_name_hint">Enter Last Name</string>
+    <string name="email_hint">Enter Email Address</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_email">Email</string>
+    <string name="title_activity_form">Form</string>
+    <string name="title_activity_doctors">Doctors</string>
+    <string name="title_activity_waitlist">Waitlist</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="title_activity_bio">Bio</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_patients">Patients</string>
+
+</resources>
